@@ -3,9 +3,9 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 use ieee.numeric_std.all;
 
---codigo echo por Santiago Rodriguez Villarruel 201813369 [https://github.com/Sstrv]
+--codigo hecho por Santiago Rodriguez Villarruel [https://github.com/Sstrv]
 --Presentado a FABIAN ROLANDO JIMENEZ LOPEZ
---Universidad Pedagogica y Tecnologica de Colombia (UPTC)
+--Universidad Pedagògica y Tecnològica de Colombia (UPTC)
 
 
 entity DSPCNCR is
