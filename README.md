@@ -1,2 +1,3 @@
-# VHDL/comunicaciones
+# VHDL
+
 Codigos Vhdl 
