@@ -5,6 +5,10 @@ use ieee.numeric_std.all;
 
 --codigo echo por 
 --Santiago Rodriguez Villarruel 201813369 [https://github.com/Sstrv]
+--Presentado a 
+--FABIAN ROLANDO JIMENEZ LOPEZ
+--Universidad Pedagogica y Tecnologica de Colombia (UPTC)
+
 
 entity DSPCNCR is
     port 
