@@ -1,1 +1,3 @@
-
+## Convolucion y Correlacion en FPGA 
+# El siguiente codigo hacee una combolucion o correlacion de dos señales de entrada de un adc0808 
+# Archivo principal dspCNCR
