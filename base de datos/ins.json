@@ -1,0 +1,40 @@
+[
+    {"Nombre": "Daniel", 
+      "Edad": 25, 
+      "Estatura": 1.75, 
+      "Grado": "Master", 
+      "num_contactos": [3002142530, 
+                        3202142530, 
+                        3152142530]
+    }, 
+    {"Nombre": "David", 
+      "Edad": 32, 
+      "Estatura": 1.85, 
+      "Grado": "Doctor", 
+      "num_contactos": [3172142530, 3242142530, 3232142530]
+    }, 
+    {"Nombre": "Lucas", 
+      "Edad": 28, 
+      "Estatura": 1.65, 
+      "Grado": "Doctor", 
+      "num_contactos": [3012142530, 3212142530, 3152142530]
+    }, 
+    {"Nombre": "Luisa", 
+      "Edad": 23, 
+      "Estatura": 1.55, 
+      "Grado": "Master", 
+      "num_contactos": [3182142530, 3242142530, 3162142530]
+    }, 
+    {"Nombre": "Leonor", 
+      "Edad": 21,
+      "Estatura": 1.7, 
+      "Grado": "Especializacion", 
+      "num_contactos": [3022142530, 3252142530, 3182142530]
+    }, 
+    {"Nombre": "Daniela", 
+      "Edad": 18, 
+      "Estatura": 1.57, 
+      "Grado": "Estudios Secundarios", 
+      "num_contactos": [3192142530, 3262142530, 3192142530]
+    }  
+    ]
